@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Lucho 🤜💥🤛</h1>
 <h3>A human being a frontend developer from Argentina World Champion! ⭐⭐⭐</h3>
 
-- 🔎 I’m currently learning **NextJS, TypeScript & English**
-
 - 👨‍💻 Visit my portfolio [https://luciano-de-carolis.vercel.app/](https://luciano-de-carolis.vercel.app/)
 
 - 📫 Send me an email: **parodia452@gmail.com**
