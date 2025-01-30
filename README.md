@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lucho 🤜💥🤛</h1>
-<h3>A human being a fullstack js developer from Argentina World Champion! ⭐⭐⭐</h3>
+<h3>A human being a Software Developer from Argentina World Champion! ⭐⭐⭐</h3>
 
 - 👨‍💻 Visit my portfolio [https://luciano-de-carolis.vercel.app/](https://luciano-de-carolis.vercel.app/)
 
