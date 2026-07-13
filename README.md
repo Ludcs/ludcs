@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Lucho!</h1>
 <h3>A human being a Software Developer from Argentina</h3>
 
-- 👨‍💻 Visit my portfolio [https://luciano-de-carolis.vercel.app/](https://luciano-de-carolis.vercel.app/)
-
 - 📫 Send me an email: **lucianodecarolisjob@gmail.com**
 
 - ⚡ **You only have one life for the whole game. So, insert coin and play! 🧙‍♂️**
